@@ -33,7 +33,7 @@ Every input, one core, every output.
 
 ## ⚙️ Installation & Setup
 
-1. Download the latest installer for Windows 10 or 11 from the [Releases](#) page.
+1. Download the latest installer for Windows 10 or 11 from the [Official Download Page](https://www.iptranscoderpro.com/IPTranscoder_Pro_v2_Setup.exe) page.
 2. Run the executable (`IPTranscoder_Pro_v2_Setup.exe`) and follow the on-screen prompts.
 3. Launch the IP Transcoder Pro console.
 4. Configure your input ingest streams and map them to your desired output formats and delivery targets.
@@ -50,4 +50,4 @@ IP Transcoder Pro v2 is designed to sit at the core of a broader IPTV ecosystem.
 
 © 2026 IP Transcoder Pro. All rights reserved.
 
-For licensing inquiries, pricing tiers (Monthly, Yearly, 3-Year, or Lifetime), and support, please visit the [official website](#).
+For licensing inquiries, pricing tiers (Monthly, Yearly, 3-Year, or Lifetime), and support, please visit the [official website](https://www.iptranscoderpro.com).
